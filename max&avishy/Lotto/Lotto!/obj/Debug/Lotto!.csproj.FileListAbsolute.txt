@@ -1,0 +1,7 @@
+C:\Users\SpecialDog\Desktop\Dev\שנה א\נתן\עבודת הגשה - מקס ואבישי\Lotto\Lotto!\bin\Debug\Lotto!.exe.config
+C:\Users\SpecialDog\Desktop\Dev\שנה א\נתן\עבודת הגשה - מקס ואבישי\Lotto\Lotto!\bin\Debug\Lotto!.exe
+C:\Users\SpecialDog\Desktop\Dev\שנה א\נתן\עבודת הגשה - מקס ואבישי\Lotto\Lotto!\bin\Debug\Lotto!.pdb
+C:\Users\SpecialDog\Desktop\Dev\שנה א\נתן\עבודת הגשה - מקס ואבישי\Lotto\Lotto!\obj\Debug\Lotto!.csprojAssemblyReference.cache
+C:\Users\SpecialDog\Desktop\Dev\שנה א\נתן\עבודת הגשה - מקס ואבישי\Lotto\Lotto!\obj\Debug\Lotto!.csproj.CoreCompileInputs.cache
+C:\Users\SpecialDog\Desktop\Dev\שנה א\נתן\עבודת הגשה - מקס ואבישי\Lotto\Lotto!\obj\Debug\Lotto!.exe
+C:\Users\SpecialDog\Desktop\Dev\שנה א\נתן\עבודת הגשה - מקס ואבישי\Lotto\Lotto!\obj\Debug\Lotto!.pdb
